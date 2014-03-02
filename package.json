@@ -1,0 +1,10 @@
+{
+  "name": "openKarotz",
+  "description": "An openKarotz API Wrapper",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-jsonlint": "~1.0.4"
+  }
+}
