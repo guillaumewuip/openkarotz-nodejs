@@ -1,6 +1,6 @@
 {
   "name": "openkarotz",
-  "version" : "1.0.1",
+  "version" : "1.1.0",
   "description": "An openKarotz API Wrapper",
   "author": "Guillaume Wuip <clochard.guillaume@gmail.com> (http://wuips.com/guillaume/)",
   "main": "./lib/openkarotz-wrapper.js",
