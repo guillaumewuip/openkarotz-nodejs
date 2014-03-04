@@ -34,6 +34,7 @@ npm install openkarotz
 - led(mainColor, secondColor, pulse, memory, period, callback)
 - fixedLed(color, callback)
 - pulsedLed(color, period, callback)
+- fade(colorStart, colorEnd, time, callback);
 
 ##Ears
 - ears_mode(disabled, callback)
