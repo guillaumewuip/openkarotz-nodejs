@@ -11,15 +11,15 @@ It's simply an api wrapper.
 npm install openkarotz
 ```
 
-```
-  var openkarotz = require('openkarotz');
+```javascript
+var openkarotz = require('openkarotz');
 
-  var karotz = new openkarotz('192.168.0.1');
+var karotz = new openkarotz('192.168.0.1');
 
-  karotz.ears(5, 5, function(error, msg) {
+karotz.ears(5, 5, function(error, msg) {
     console.log(error); //false
     console.log(msg); //return json from the api
-  });
+});
 
 ```
 
