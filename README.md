@@ -2,7 +2,7 @@
 OpenKarotz NodeJS module
 ------------------------
 
-A NodeJS Module to control a Karotz which run on [openkarotz](openkarotz.filippi.org).
+A NodeJS Module to control a Karotz which run on [openkarotz](http://openkarotz.filippi.org).
 It's simply an api wrapper.
 
 #Use
