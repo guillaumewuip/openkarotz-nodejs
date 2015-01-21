@@ -65,7 +65,7 @@ karotz.ears(5, 5, function(error, msg) {
 - snapshot_list(callback)
 - clear_snapshots(callback)
 - take_snapshot(silent, callback)
-- snapshot_ftp(server, user, password, dir, callback)
+- snapshot_ftp(server, user, password, dir, silent, callback)
 
 ##Sounds
 - sound(id, url, callback)
