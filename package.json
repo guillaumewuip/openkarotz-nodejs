@@ -5,7 +5,8 @@
   "author": "Guillaume Wuip <clochard.guillaume@gmail.com> (http://wuips.com/guillaume/)",
   "main": "./lib/openkarotz-wrapper.js",
   "dependencies": {
-    "request" : "~2.33.0"
+    "request" : "~2.33.0",
+    "debug": "~2.2.0"
   },
   "repository": {
     "type": "git",
